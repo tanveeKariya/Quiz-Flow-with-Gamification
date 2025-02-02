@@ -7,6 +7,12 @@
 </head>
 <body>
   <h1>Ultimate Quiz App</h1>
+<b>image links :</b>  ![image](https://github.com/user-attachments/assets/7e199e38-fbf8-48ec-887e-137f0920054c)
+  ![image](https://github.com/user-attachments/assets/29a99c95-a745-42bd-b8bc-6b1c236dd05e)
+![image](https://github.com/user-attachments/assets/db30bd4b-e8f5-40d3-858b-f61890f2d72c)
+
+<b>video links :</b><code>https://drive.google.com/file/d/1FtbLbA5xaxQr-MeD7i0b3u7FCyyb3xFT/view?usp=sharing </code>
+
   <p>A fun and interactive quiz app where users can test their knowledge across multiple categories, earn points, and keep track of their score! With gamified effects, timers, and beautiful UI design, it offers an engaging experience for users.</p>
 
   <h2>Features</h2>
@@ -100,7 +106,7 @@
   <h2>Contribution</h2>
   <p>Feel free to fork the repository, make improvements, and submit pull requests. If you find any bugs or issues, please report them in the "Issues" section of the repository.</p>
 
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
+
+
 </body>
 </html>
